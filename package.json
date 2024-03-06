@@ -1,0 +1,19 @@
+{
+  "name": "luzia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.0.1",
+    "cep-promise": "^4.4.0",
+    "dayjs": "^1.11.7",
+    "firebase-admin": "^11.8.0",
+    "openai": "^3.2.1",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
